@@ -10,25 +10,25 @@ A few years ago research was done on a tribe in America which is called the Pima
 
 
 # Contents in dataset:
-Pregnancies: Number of times pregnant
-Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
-Blood pressure: Diastolic blood pressure (mm Hg)
-SkinThickness: Triceps skinfold thickness (mm)
-Insulin: 2-Hour serum insulin (mu U/ml) test
-BMI: Body mass index (weight in kg/(height in m)^2)
-DiabetesPedigreeFunction: A function that scores likelihood of diabetes based on family history
-Age: Age in years
-Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
+* Pregnancies: Number of times pregnant
+* Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+* Blood pressure: Diastolic blood pressure (mm Hg)
+* SkinThickness: Triceps skinfold thickness (mm)
+* Insulin: 2-Hour serum insulin (mu U/ml) test
+* BMI: Body mass index (weight in kg/(height in m)^2)
+* DiabetesPedigreeFunction: A function that scores likelihood of diabetes based on family history
+* Age: Age in years
+* Outcome: Class variable (0: the person is not diabetic or 1: the person is diabetic)
 
 
 # Table of contents for the file:
-Introduction
-Importing libraries
-Data Loading
-Data understanding
-Visualizations
-Correlation
-Data modeling
-Logistic Regression (Prediction)
-Random Forest (Prediction)
-Conclusion
+* Introduction
+* Importing libraries
+* Data Loading
+* Data understanding
+* Visualizations
+* Correlation
+* Data modeling
+* Logistic Regression (Prediction)
+* Random Forest (Prediction)
+* Conclusion
